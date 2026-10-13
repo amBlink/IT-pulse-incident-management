@@ -1,0 +1,13 @@
+Incident ID,Title,Category,Severity,Priority,Status,Assignee,Reported By,Created Date,Resolution Hours,Description
+INC-1001,VPN connection failure,Network,High,P1,In Progress,A. Sharma,R. Mehta,2026-10-10,0.0,Remote users unable to connect to corporate VPN.
+INC-1002,Password reset request,Access,Low,P3,Resolved,S. Khan,P. Verma,2026-10-09,1.5,User locked out after multiple unsuccessful login attempts.
+INC-1003,ERP application unavailable,Application,Critical,P1,Open,N. Gupta,Finance Team,2026-10-12,0.0,Finance team cannot access the ERP application.
+INC-1004,Printer not responding,Hardware,Medium,P2,Open,A. Sharma,Admin Team,2026-10-11,0.0,Floor 3 network printer is not responding.
+INC-1005,Email delivery delay,Application,Medium,P2,Resolved,S. Khan,Sales Team,2026-10-08,3.0,Outgoing emails were delayed for several users.
+INC-1006,Employee portal access issue,Access,High,P1,In Progress,N. Gupta,HR Team,2026-10-12,0.0,HR staff receive an access-denied message in the portal.
+INC-1007,Laptop battery fault,Hardware,Low,P3,Closed,A. Sharma,M. Joshi,2026-10-06,5.0,Laptop battery replaced and device returned to user.
+INC-1008,Intermittent Wi-Fi outage,Network,High,P2,Open,S. Khan,Operations,2026-10-13,0.0,Intermittent Wi-Fi drops reported in the meeting area.
+INC-1009,Software installation request,Application,Low,P3,Resolved,N. Gupta,K. Rao,2026-10-07,2.0,Approved software installed on user workstation.
+INC-1010,Database response time elevated,Database,Critical,P1,In Progress,A. Sharma,IT Monitoring,2026-10-13,0.0,"Database queries are slower than expected, affecting reporting."
+INC-1011,Production server unavailable,Application,Critical,P1,Open,IT support owner,Team,2026-10-13,0.0,Users cannot access the application.
+INC-1012,Production server unavailable,Application,Critical,P1,Open,Unassigned,Not specified,2026-10-13,0.0,Users cannot access the application.
